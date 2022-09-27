@@ -1,4 +1,10 @@
 # iOS Settings URLS - Website
+
+https://github.com/Uvacoder/ios-settings-urls
+
+-----
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64fb2d17-4467-40a0-b054-f14633676fce/deploy-status)](https://app.netlify.com/sites/ios-settings-urls/deploys)
 
 This project aims to make the [ios-settings-url](https://github.com/FifiTheBulldog/ios-settings-urls) repo more easy to browse, since its great width. The [ios-settings-url](https://github.com/FifiTheBulldog/ios-settings-urls) repo was created and is curated by [FifiTheBulldog](https://github.com/FifiTheBulldog). This website was designed and developed by [alombi](https://alombi.xyz).
