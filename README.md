@@ -1,6 +1,6 @@
 # iOS Settings URLS - Website
 
-https://github.com/Uvacoder/uvacards1a
+https://github.com/Uvacoder/uvacards1b
 
 -----
 
