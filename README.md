@@ -2,6 +2,9 @@
 
 https://github.com/Uvacoder/uvacards1b
 
+<p align="center">
+  <img src="uvacards1.png" alt="Next.js and TypeScript">
+</p>
 -----
 
 
